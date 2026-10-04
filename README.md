@@ -12,13 +12,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- SOLVED:START -->
-### 🧩 최근 푼 문제 (2026.10.02 14:26)
-**총 4문제** (SWEA 2 · 프로그래머스 2) · [전체 목록](https://github.com/Hiri-kor/algorithm)
+### 🧩 최근 푼 문제 (2026.10.05 00:12)
+**총 11문제** (SWEA 2 · 프로그래머스 9) · [전체 목록](https://github.com/Hiri-kor/algorithm)
 
 | 날짜 | 사이트 | 난이도 | 문제 |
 | --- | --- | --- | --- |
-| 2026-10-02 | SWEA | D1 | [2071. 평균값 구하기](https://github.com/Hiri-kor/algorithm/tree/main/SWEA/D1/2071.%E2%80%85%ED%8F%89%EA%B7%A0%EA%B0%92%E2%80%85%EA%B5%AC%ED%95%98%EA%B8%B0) |
-| 2026-10-02 | 프로그래머스 | Lv.0 | [181951. a와 b 출력하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181951.%E2%80%85a%EC%99%80%E2%80%85b%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |
-| 2026-10-02 | 프로그래머스 | Lv.0 | [181952. 문자열 출력하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181952.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |
-| 2026-10-01 | SWEA | D1 | [2072. 홀수만 더하기](https://github.com/Hiri-kor/algorithm/tree/main/SWEA/D1/2072.%E2%80%85%ED%99%80%EC%88%98%EB%A7%8C%E2%80%85%EB%8D%94%ED%95%98%EA%B8%B0) |
+| 2026-10-04 | 프로그래머스 | Lv.0 | [181875. 배열에서 문자열 대소문자 변환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181875.%E2%80%85%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8C%80%EC%86%8C%EB%AC%B8%EC%9E%90%E2%80%85%EB%B3%80%ED%99%98%ED%95%98%EA%B8%B0) |
+| 2026-10-04 | 프로그래머스 | Lv.0 | [181845. 문자열로 변환](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181845.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EB%A1%9C%E2%80%85%EB%B3%80%ED%99%98) |
+| 2026-10-04 | 프로그래머스 | Lv.0 | [181850. 정수 부분](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181850.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EB%B6%80%EB%B6%84) |
+| 2026-10-04 | 프로그래머스 | Lv.0 | [181933. flag에 따라 다른 값 반환하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181933.%E2%80%85flag%EC%97%90%E2%80%85%EB%94%B0%EB%9D%BC%E2%80%85%EB%8B%A4%EB%A5%B8%E2%80%85%EA%B0%92%E2%80%85%EB%B0%98%ED%99%98%ED%95%98%EA%B8%B0) |
+| 2026-10-04 | 프로그래머스 | Lv.0 | [181889. n 번째 원소까지](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181889.%E2%80%85n%E2%80%85%EB%B2%88%EC%A7%B8%E2%80%85%EC%9B%90%EC%86%8C%EA%B9%8C%EC%A7%80) |
 <!-- SOLVED:END -->
