@@ -12,14 +12,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- SOLVED:START -->
-### 🧩 최근 푼 문제 (2026.10.06 12:27)
-**총 32문제** (SWEA 2 · 프로그래머스 30) · [전체 목록](https://github.com/Hiri-kor/algorithm)
+### 🧩 최근 푼 문제 (2026.10.06 12:35)
+**총 33문제** (SWEA 2 · 프로그래머스 31) · [전체 목록](https://github.com/Hiri-kor/algorithm)
 
 | 날짜 | 사이트 | 난이도 | 문제 |
 | --- | --- | --- | --- |
+| 2026-10-06 | 프로그래머스 | Lv.0 | [181939. 더 크게 합치기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181939.%E2%80%85%EB%8D%94%E2%80%85%ED%81%AC%EA%B2%8C%E2%80%85%ED%95%A9%EC%B9%98%EA%B8%B0) |
 | 2026-10-06 | 프로그래머스 | Lv.0 | [181888. n개 간격의 원소들](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181888.%E2%80%85n%EA%B0%9C%E2%80%85%EA%B0%84%EA%B2%A9%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%EB%93%A4) |
 | 2026-10-06 | 프로그래머스 | Lv.0 | [181896. 첫 번째로 나오는 음수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181896.%E2%80%85%EC%B2%AB%E2%80%85%EB%B2%88%EC%A7%B8%EB%A1%9C%E2%80%85%EB%82%98%EC%98%A4%EB%8A%94%E2%80%85%EC%9D%8C%EC%88%98) |
 | 2026-10-06 | 프로그래머스 | Lv.0 | [181936. 공배수](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181936.%E2%80%85%EA%B3%B5%EB%B0%B0%EC%88%98) |
 | 2026-10-06 | 프로그래머스 | Lv.0 | [181943. 문자열 겹쳐쓰기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181943.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EA%B2%B9%EC%B3%90%EC%93%B0%EA%B8%B0) |
-| 2026-10-06 | 프로그래머스 | Lv.0 | [181947. 덧셈식 출력하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181947.%E2%80%85%EB%8D%A7%EC%85%88%EC%8B%9D%E2%80%85%EC%B6%9C%EB%A0%A5%ED%95%98%EA%B8%B0) |
 <!-- SOLVED:END -->
