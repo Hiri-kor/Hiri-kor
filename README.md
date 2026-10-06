@@ -12,14 +12,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- SOLVED:START -->
-### 🧩 최근 푼 문제 (2026.10.06 09:34)
-**총 17문제** (SWEA 2 · 프로그래머스 15) · [전체 목록](https://github.com/Hiri-kor/algorithm)
+### 🧩 최근 푼 문제 (2026.10.06 09:36)
+**총 18문제** (SWEA 2 · 프로그래머스 16) · [전체 목록](https://github.com/Hiri-kor/algorithm)
 
 | 날짜 | 사이트 | 난이도 | 문제 |
 | --- | --- | --- | --- |
+| 2026-10-06 | 프로그래머스 | Lv.0 | [181868. 공백으로 구분하기 2](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181868.%E2%80%85%EA%B3%B5%EB%B0%B1%EC%9C%BC%EB%A1%9C%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0%E2%80%852) |
 | 2026-10-06 | 프로그래머스 | Lv.0 | [181945. 문자열 돌리기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181945.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%8F%8C%EB%A6%AC%EA%B8%B0) |
 | 2026-10-06 | 프로그래머스 | Lv.0 | [181944. 홀짝 구분하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181944.%E2%80%85%ED%99%80%EC%A7%9D%E2%80%85%EA%B5%AC%EB%B6%84%ED%95%98%EA%B8%B0) |
 | 2026-10-06 | 프로그래머스 | Lv.0 | [181842. 부분 문자열](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181842.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4) |
 | 2026-10-06 | 프로그래머스 | Lv.0 | [181876. 소문자로 바꾸기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181876.%E2%80%85%EC%86%8C%EB%AC%B8%EC%9E%90%EB%A1%9C%E2%80%85%EB%B0%94%EA%BE%B8%EA%B8%B0) |
-| 2026-10-06 | 프로그래머스 | Lv.0 | [181938. 두 수의 연산값 비교하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181938.%E2%80%85%EB%91%90%E2%80%85%EC%88%98%EC%9D%98%E2%80%85%EC%97%B0%EC%82%B0%EA%B0%92%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) |
 <!-- SOLVED:END -->
