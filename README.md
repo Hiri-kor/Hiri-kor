@@ -12,14 +12,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- SOLVED:START -->
-### 🧩 최근 푼 문제 (2026.10.09 22:46)
-**총 57문제** (SWEA 2 · 프로그래머스 55) · [전체 목록](https://github.com/Hiri-kor/algorithm)
+### 🧩 최근 푼 문제 (2026.10.10 20:52)
+**총 58문제** (SWEA 2 · 프로그래머스 56) · [전체 목록](https://github.com/Hiri-kor/algorithm)
 
 | 날짜 | 사이트 | 난이도 | 문제 |
 | --- | --- | --- | --- |
+| 2026-10-10 | 프로그래머스 | Lv.0 | [181844. 배열의 원소 삭제하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181844.%E2%80%85%EB%B0%B0%EC%97%B4%EC%9D%98%E2%80%85%EC%9B%90%EC%86%8C%E2%80%85%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) |
 | 2026-10-09 | 프로그래머스 | Lv.0 | [181847. 0 떼기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181847.%E2%80%850%E2%80%85%EB%96%BC%EA%B8%B0) |
 | 2026-10-09 | 프로그래머스 | Lv.0 | [181840. 정수 찾기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181840.%E2%80%85%EC%A0%95%EC%88%98%E2%80%85%EC%B0%BE%EA%B8%B0) |
 | 2026-10-09 | 프로그래머스 | Lv.0 | [181839. 주사위 게임 1](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181839.%E2%80%85%EC%A3%BC%EC%82%AC%EC%9C%84%E2%80%85%EA%B2%8C%EC%9E%84%E2%80%851) |
 | 2026-10-09 | 프로그래머스 | Lv.0 | [181920. 카운트 업](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181920.%E2%80%85%EC%B9%B4%EC%9A%B4%ED%8A%B8%E2%80%85%EC%97%85) |
-| 2026-10-09 | 프로그래머스 | Lv.0 | [181863. rny_string](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181863.%E2%80%85rny%EF%BC%BFstring) |
 <!-- SOLVED:END -->
