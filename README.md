@@ -12,14 +12,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- SOLVED:START -->
-### 🧩 최근 푼 문제 (2026.10.26 22:18)
-**총 78문제** (SWEA 2 · 프로그래머스 76) · [전체 목록](https://github.com/Hiri-kor/algorithm)
+### 🧩 최근 푼 문제 (2026.10.27 12:14)
+**총 79문제** (SWEA 2 · 프로그래머스 77) · [전체 목록](https://github.com/Hiri-kor/algorithm)
 
 | 날짜 | 사이트 | 난이도 | 문제 |
 | --- | --- | --- | --- |
+| 2026-10-27 | 프로그래머스 | Lv.0 | [181834. l로 만들기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181834.%E2%80%85l%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 2026-10-26 | 프로그래머스 | Lv.0 | [181909. 접미사 배열](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181909.%E2%80%85%EC%A0%91%EB%AF%B8%EC%82%AC%E2%80%85%EB%B0%B0%EC%97%B4) |
 | 2026-10-25 | 프로그래머스 | Lv.0 | [181911. 부분 문자열 이어 붙여 문자열 만들기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181911.%E2%80%85%EB%B6%80%EB%B6%84%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EC%9D%B4%EC%96%B4%E2%80%85%EB%B6%99%EC%97%AC%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
 | 2026-10-24 | 프로그래머스 | Lv.0 | [181914. 9로 나눈 나머지](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181914.%E2%80%859%EB%A1%9C%E2%80%85%EB%82%98%EB%88%88%E2%80%85%EB%82%98%EB%A8%B8%EC%A7%80) |
 | 2026-10-23 | 프로그래머스 | Lv.0 | [181898. 가까운 1 찾기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181898.%E2%80%85%EA%B0%80%EA%B9%8C%EC%9A%B4%E2%80%851%E2%80%85%EC%B0%BE%EA%B8%B0) |
-| 2026-10-22 | 프로그래머스 | Lv.0 | [181870. ad 제거하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181870.%E2%80%85ad%E2%80%85%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0) |
 <!-- SOLVED:END -->
