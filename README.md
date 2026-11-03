@@ -12,14 +12,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- SOLVED:START -->
-### 🧩 최근 푼 문제 (2026.11.03 11:44)
-**총 84문제** (SWEA 2 · 프로그래머스 82) · [전체 목록](https://github.com/Hiri-kor/algorithm)
+### 🧩 최근 푼 문제 (2026.11.03 12:04)
+**총 85문제** (SWEA 2 · 프로그래머스 83) · [전체 목록](https://github.com/Hiri-kor/algorithm)
 
 | 날짜 | 사이트 | 난이도 | 문제 |
 | --- | --- | --- | --- |
+| 2026-11-03 | 프로그래머스 | Lv.0 | [181836. 그림 확대](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181836.%E2%80%85%EA%B7%B8%EB%A6%BC%E2%80%85%ED%99%95%EB%8C%80) |
 | 2026-11-03 | 프로그래머스 | Lv.0 | [181932. 코드 처리하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181932.%E2%80%85%EC%BD%94%EB%93%9C%E2%80%85%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0) |
 | 2026-11-02 | 프로그래머스 | Lv.0 | [181924. 수열과 구간 쿼리 3](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181924.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%853) |
 | 2026-10-30 | 프로그래머스 | Lv.0 | [181912. 배열 만들기 5](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181912.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0%E2%80%855) |
 | 2026-10-29 | 프로그래머스 | Lv.0 | [181856. 배열 비교하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181856.%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) |
-| 2026-10-28 | 프로그래머스 | Lv.0 | [181838. 날짜 비교하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181838.%E2%80%85%EB%82%A0%EC%A7%9C%E2%80%85%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0) |
 <!-- SOLVED:END -->
