@@ -12,14 +12,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- SOLVED:START -->
-### 🧩 최근 푼 문제 (2026.11.13 17:15)
-**총 92문제** (SWEA 2 · 프로그래머스 90) · [전체 목록](https://github.com/Hiri-kor/algorithm)
+### 🧩 최근 푼 문제 (2026.11.14 22:34)
+**총 93문제** (SWEA 2 · 프로그래머스 91) · [전체 목록](https://github.com/Hiri-kor/algorithm)
 
 | 날짜 | 사이트 | 난이도 | 문제 |
 | --- | --- | --- | --- |
+| 2026-11-14 | 프로그래머스 | Lv.0 | [181922. 수열과 구간 쿼리 4](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181922.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%854) |
 | 2026-11-13 | 프로그래머스 | Lv.0 | [181923. 수열과 구간 쿼리 2](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181923.%E2%80%85%EC%88%98%EC%97%B4%EA%B3%BC%E2%80%85%EA%B5%AC%EA%B0%84%E2%80%85%EC%BF%BC%EB%A6%AC%E2%80%852) |
 | 2026-11-13 | 프로그래머스 | Lv.0 | [181900. 글자 지우기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181900.%E2%80%85%EA%B8%80%EC%9E%90%E2%80%85%EC%A7%80%EC%9A%B0%EA%B8%B0) |
 | 2026-11-12 | 프로그래머스 | Lv.0 | [181917. 간단한 논리 연산](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181917.%E2%80%85%EA%B0%84%EB%8B%A8%ED%95%9C%E2%80%85%EB%85%BC%EB%A6%AC%E2%80%85%EC%97%B0%EC%82%B0) |
 | 2026-11-12 | 프로그래머스 | Lv.0 | [181904. 세로 읽기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181904.%E2%80%85%EC%84%B8%EB%A1%9C%E2%80%85%EC%9D%BD%EA%B8%B0) |
-| 2026-11-10 | 프로그래머스 | Lv.0 | [181885. 할 일 목록](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181885.%E2%80%85%ED%95%A0%E2%80%85%EC%9D%BC%E2%80%85%EB%AA%A9%EB%A1%9D) |
 <!-- SOLVED:END -->
