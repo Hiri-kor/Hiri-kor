@@ -12,14 +12,14 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- SOLVED:START -->
-### 🧩 최근 푼 문제 (2026.11.27 15:52)
-**총 116문제** (SWEA 2 · 백준 1 · 프로그래머스 113) · [전체 목록](https://github.com/Hiri-kor/algorithm)
+### 🧩 최근 푼 문제 (2026.11.27 15:56)
+**총 117문제** (SWEA 2 · 백준 1 · 프로그래머스 114) · [전체 목록](https://github.com/Hiri-kor/algorithm)
 
 | 날짜 | 사이트 | 난이도 | 문제 |
 | --- | --- | --- | --- |
+| 2026-11-27 | 프로그래머스 | Lv.0 | [181871. 문자열이 몇 번 등장하는지 세기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181871.%E2%80%85%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4%E2%80%85%EB%AA%87%E2%80%85%EB%B2%88%E2%80%85%EB%93%B1%EC%9E%A5%ED%95%98%EB%8A%94%EC%A7%80%E2%80%85%EC%84%B8%EA%B8%B0) |
 | 2026-11-27 | 프로그래머스 | Lv.0 | [181860. 빈 배열에 추가, 삭제하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181860.%E2%80%85%EB%B9%88%E2%80%85%EB%B0%B0%EC%97%B4%EC%97%90%E2%80%85%EC%B6%94%EA%B0%80%EF%BC%8C%E2%80%85%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0) |
 | 2026-11-27 | 프로그래머스 | Lv.0 | [181829. 이차원 배열 대각선 순회하기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181829.%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%85%EB%8C%80%EA%B0%81%EC%84%A0%E2%80%85%EC%88%9C%ED%9A%8C%ED%95%98%EA%B8%B0) |
 | 2026-11-27 | 프로그래머스 | Lv.0 | [181831. 특별한 이차원 배열 2](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181831.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%852) |
 | 2026-11-27 | 프로그래머스 | Lv.0 | [181880. 1로 만들기](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181880.%E2%80%851%EB%A1%9C%E2%80%85%EB%A7%8C%EB%93%A4%EA%B8%B0) |
-| 2026-11-27 | 프로그래머스 | Lv.0 | [181833. 특별한 이차원 배열 1](https://github.com/Hiri-kor/algorithm/tree/main/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4/0/181833.%E2%80%85%ED%8A%B9%EB%B3%84%ED%95%9C%E2%80%85%EC%9D%B4%EC%B0%A8%EC%9B%90%E2%80%85%EB%B0%B0%EC%97%B4%E2%80%851) |
 <!-- SOLVED:END -->
